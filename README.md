@@ -5,7 +5,7 @@ This is a set of data representing items placed on hold shelves and some related
 
 This data set consists of two .csv files:
 
-1. `filled_holds_2019-01-01_to_2019-03-01.csv` (`filled_holds_2019-01-01_to_2019-03-01.csv`)
+1. `filled_holds_2019-01-01_to_2019-03-01.csv` (`filled_holds_2019-01-01_to_2019-03-01.zip`)
 1. `branch_location_codes.csv`
 
 The first file, filled_holds.csv contains columns that describe a “filled hold”–meaning an item has been placed on a hold shelf at a branch location at the request of a patron who placed a hold on that title (the catalog system software automatically matches an item from the list of items records attached to a title record). Columns in this file are described below:
